@@ -1,0 +1,15 @@
+{
+  "name": "deploy-site",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@wix/wml-site-deployer": "/Users/aviyash/projects/document-management/wml-site-deployer"
+  },
+  "author": "",
+  "license": "ISC"
+}
